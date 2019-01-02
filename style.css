@@ -1,0 +1,4 @@
+#cotedor:hover, #doubs:hover, #jura:hover, #nievre:hover, #yonne:hover, #saoneetloire:hover, #belfort:hover, #hautesaone:hover  {fill:#008ccf;
+transition: 0.5s all ease;}
+
+#cotedor, #doubs, #jura, #nievre, #yonne, #saoneetloire, #belfort, #hautesaone {fill:#e7e7e7;}
